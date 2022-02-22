@@ -1,3 +1,4 @@
+import socket
 print("test") 
 print("testung you device")
 model = input("Write you model: \n") 
